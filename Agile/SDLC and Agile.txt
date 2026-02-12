@@ -1,0 +1,24 @@
+Introduction to SDLC and agile
+sprint ,scrum master , sprint huddle , retrosoection
+scrum ceremony - sprint planning
+backlog refinement , burndown chart , velocity
+story , task
+epic 
+user story , use case
+create project , invite member , create epic , create issues
+issue type , assign issue
+story points
+create sub-tasks for the story
+backlog management 
+register a bud in the backlog 
+create and assign workflow
+create and mange teams 
+jira report 
+introduction to jira tool 
+SAFe agile basic concept
+estimation strategies
+
+
+
+
+9922
